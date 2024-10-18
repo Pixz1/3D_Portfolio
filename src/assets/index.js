@@ -5,6 +5,7 @@ import backend from "./backend.svg";
 import rocket from "./rocket.svg";
 
 import github from "./github.png";
+import open from "./open.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -22,9 +23,7 @@ import threejs from "./tech/threejs.svg";
 import question from "./company/question.svg";
 import sol from "./company/sol.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrent from "./carrent.jpg";
 
 export {
     logo,
@@ -33,6 +32,7 @@ export {
     backend,
     rocket,
     github,
+    open,
     menu,
     close,
     css,
@@ -48,6 +48,4 @@ export {
     question,
     sol,
     carrent,
-    jobit,
-    tripguide,
 };
