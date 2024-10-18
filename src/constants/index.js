@@ -1,8 +1,8 @@
 import {
-    mobile,
+    mortarboard,
+    frontend,
     backend,
-    creator,
-    web,
+    rocket,
     javascript,
     typescript,
     html,
@@ -39,20 +39,20 @@ export const navLinks = [
 
 const services = [
     {
-        title: "Web Developer",
-        icon: web,
+        title: "Junior Developer",
+        icon: mortarboard,
     },
     {
-        title: "React Native Developer",
-        icon: mobile,
+        title: "Front-End",
+        icon: frontend,
     },
     {
-        title: "Backend Developer",
+        title: "Back-End",
         icon: backend,
     },
     {
-        title: "Content Creator",
-        icon: creator,
+        title: "Ready to start",
+        icon: rocket,
     },
 ];
 
